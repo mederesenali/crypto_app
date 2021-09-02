@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crypto App</string>
+    <string name="enter_crypto_name">searchEDT</string>
+    <string name="symbol">symbol</string>
+    <string name="rate">rate</string>
+    <string name="name">name</string>
+</resources>
